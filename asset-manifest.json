@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HighBrand/static/css/main.966eb025.css",
+    "main.js": "/HighBrand/static/js/main.129c78ca.js",
+    "static/js/787.28cb0dcd.chunk.js": "/HighBrand/static/js/787.28cb0dcd.chunk.js",
+    "static/media/working.jpg": "/HighBrand/static/media/working.b85f8dbceff30970bc41.jpg",
+    "static/media/about.jpg": "/HighBrand/static/media/about.87344812a21e0cb53842.jpg",
+    "static/media/user1.jpg": "/HighBrand/static/media/user1.1f488305ca1c55fef771.jpg",
+    "static/media/user2.jpg": "/HighBrand/static/media/user2.1f488305ca1c55fef771.jpg",
+    "static/media/user3.jpg": "/HighBrand/static/media/user3.1f488305ca1c55fef771.jpg",
+    "static/media/main-photo.jpg": "/HighBrand/static/media/main-photo.d74876d8ff9dce60fa8f.jpg",
+    "index.html": "/HighBrand/index.html",
+    "main.966eb025.css.map": "/HighBrand/static/css/main.966eb025.css.map",
+    "main.129c78ca.js.map": "/HighBrand/static/js/main.129c78ca.js.map",
+    "787.28cb0dcd.chunk.js.map": "/HighBrand/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.966eb025.css",
+    "static/js/main.129c78ca.js"
+  ]
+}
